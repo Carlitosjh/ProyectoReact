@@ -1,0 +1,9 @@
+.App {
+  /* text-align: center; */
+  /* background: rgb(43, 146, 89); */
+   /* height: 100vh; */
+   background-color: rgb(77, 194, 19);
+   height:100vh;  
+   background: rgb(221,222,3);
+   background: linear-gradient(90deg, rgba(221,222,3,1) 0%, rgba(219,5,5,0.8995973389355743) 54%, rgba(255,171,0,1) 91%);
+}
